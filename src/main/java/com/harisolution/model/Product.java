@@ -1,4 +1,4 @@
-package com.harisolution;
+package com.harisolution.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
