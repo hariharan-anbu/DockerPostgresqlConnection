@@ -1,0 +1,5 @@
+docker-compose down -v
+docker-compose up
+
+Server [localhost]: psql -h localhost -U postgres -d docker
+Database [postgres]:
